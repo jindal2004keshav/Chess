@@ -21,7 +21,6 @@ To run this chess game on your local machine, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/jindal2004keshav/Chess.git
-   cd Chess
    
 2. **Install Dependencies: Ensure you have Python and Pygame installed. Then, install the required packages:**
    ```bash
@@ -30,7 +29,6 @@ To run this chess game on your local machine, follow these steps:
 3. **Run the Game:**
    ```bash
    python ChessMain.py
-
 
 ## AI Implementation
 
